@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Hmong MV Storyboard Studio",
+  "description": "A creative tool for planning music videos, specifically inspired by traditional and modern Hmong music aesthetics. Generate visual storyboards, mood flows, and karaoke-style previews using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
